@@ -34,8 +34,8 @@ sudo pip3 install -U LibcSearcher
 #### 使用本仓库
 
 ```shell
-git clone https://github.com/IZAY01/LibcSearcher.git
-cd LibcSearcher
+git clone https://github.com/fei9747/LibcSearcher-ng.git
+cd LibcSearcher-ng
 sudo python3 setup.py develop
 ```
 
